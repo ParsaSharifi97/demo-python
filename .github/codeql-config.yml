@@ -1,3 +1,4 @@
 name: "Custom CodeQL Config"
 paths-ignore:
   - '**/*.test.js'
+  - 'server/*'
